@@ -44,6 +44,10 @@ Drag corresonding files into backend and frontend.
 
  To gain access to API key and project ID. 
  
+ ```
+ $ Path/Portfolio-HowieC/src/.env enter API key and projectID here
+ ```
+ 
  <h4>Front-end</h4>
  
  ```
